@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file. The format 
 
 ## [Unreleased]
 
+## [v0.1.1] — 2026-04-22
+
+### Added
+- Mirrored Cursor and Claude rules for forensic issue audits with user stories and acceptance criteria.
+
 ## [v0.1.0] — 2026-04-22
 
 Initial release.

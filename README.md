@@ -15,10 +15,10 @@ Each scraper / service package (`linkedin-go`, `x-go`, `facebook-go`, …) ships
 ## Install
 
 ```sh
-go get github.com/teslashibe/mcptool
+go get github.com/teslashibe/mcptool@latest
 ```
 
-Requires Go 1.25+.
+Requires Go 1.25 or newer on a currently supported patched release.
 
 ## Defining a tool
 
