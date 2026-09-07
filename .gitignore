@@ -1,4 +1,13 @@
+/.worktrees/
+
+# Go build and test output
+bin/
 *.test
 *.out
-.DS_Store
 coverage.txt
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+*.swp
